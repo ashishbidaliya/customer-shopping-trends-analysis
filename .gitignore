@@ -7,9 +7,6 @@ data/processed/
 # jupyter
 .ipynb_checkpoints/
 
-# scratch notebook
-notebooks/workspace.ipynb
-
 # python
 __pycache__/
 *.pyc
